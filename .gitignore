@@ -1,0 +1,5 @@
+*.stl
+target/
+/.clj-kondo/
+/.lsp/
+/out/
